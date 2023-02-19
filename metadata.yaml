@@ -1,11 +1,16 @@
 _repo: The-ideal-cookery-book-A-reliable-guide-for-home-cooking-containing-249-useful-and-dainty-rec__69876
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69876-h/images/cover.jpg
 creator:
   author:
     agent_name: Clarke, Lilian
     gutenberg_agent_id: '55469'
     url: http://www.gutenberg.org/2009/agents/55469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69876#The-ideal-cookery-book-A-reliable-guide-for-home-cooking-containing-249-useful-and-dainty-rec_
 gutenberg_issued: '2023-01-25'
 identifiers:
   gutenberg: '69876'
